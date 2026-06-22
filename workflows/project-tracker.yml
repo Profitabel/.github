@@ -3,7 +3,7 @@ name: Update Project Item Assignee Table
 on:
   project_item:
     types: [edited]
-workflow_dispatch:
+workflow_dispatch {}:
 jobs:
   update-table:
     runs-on: ubuntu-latest
