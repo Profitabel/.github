@@ -1,2 +1,2 @@
-# .github
-mja mja mja 
+# ProfitPath
+Finanzbildugns-App für Jugendliche
